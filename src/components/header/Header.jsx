@@ -7,6 +7,7 @@ import HeaderSocial from './HeaderSocial'
 const Header = () => {
   return (
     <header>
+      <React.StrictMode>
       <div className="container header__container">
         <h5>Hello I'm</h5>
         <h1>Victor Sandoval</h1>
@@ -20,6 +21,7 @@ const Header = () => {
 
 <a href='#contact' className='scroll__down'>Scroll Down</a>
       </div>
+      </React.StrictMode>
     </header>
   )
 }

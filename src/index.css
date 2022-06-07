@@ -11,18 +11,18 @@
 }
 
 :root {
-    --color-bg: #1f1f38;
-    --color-bg-variant: #2c2c6c;
-    --color-primary: #4db5ff;
-    --color-primary-variant: rgba(77, 181, 255, 0.4);
+    --color-bg: #240046;
+    --color-bg-variant: #5A189A;
+    --color-primary: #FF6D00;
+    --color-primary-variant: rgba(255, 158, 0, 1);
     --color-white: #fff;
-    --color-light: rgba(255, 255, 255, 0.6);
+    --color-light: #FF6D00;
 
     --transition: all 400ms ease;
     
     --container-width-lg: 75%;
     --container-width-md: 86%;
-    --container-width-ms: 90%;
+    --container-width-sm: 90%;
 }
 
 html {
@@ -132,7 +132,7 @@ img {
         width: var(--container-width-sm);
     }
 
-    section {
+    section > h2 {
         margin-top: 2rem;
     }
 }
