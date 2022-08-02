@@ -23,13 +23,13 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experiences</h5>
-              <small>2+ Years Working</small>
+              <small>1+ Years Working</small>
             </article>
 
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
-              <small>10+ Worldwide</small>
+              <small>6+ Worldwide</small>
             </article>
 
             <article className='about__card'>
@@ -40,7 +40,7 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam error excepturi quis illo, quaerat, voluptate odit molestiae modi inventore possimus laudantium temporibus mollitia accusantium! Est animi facilis error voluptatem nulla!
+          Responsible, proactive, with self-management capacity and good interpersonal relationships. More than 4 years of experience in digital marketing and UX/UI design and 2 years of experience in web development with wordpress, support in the strategic project planning.
           </p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>

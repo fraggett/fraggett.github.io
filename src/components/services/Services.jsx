@@ -17,31 +17,31 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> UX Research</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> User Flows</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Prototype Design</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Wireframe Design</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> User Surveys</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Journey Mapping</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Usability Testing</p>
             </li>
           </ul>
         </article>
@@ -54,72 +54,72 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> eCommerce Development</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Responsive Design</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Web Design & Re-design</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Contentful Development</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Web Application Development</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Custom Web Development</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Informational Websites</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Web-based Enterprise Solutions</p>
             </li>
           </ul>
         </article>
         {/* END OF WEB DEVELOPMENT */}
         <article className="service">
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Front-end Developer</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Web Apps and Portals</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Mobile Applications</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> React.js</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Next.js</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Front-end Architecture & Design</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> JavaScript Development</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p> Custom Web Apps</p>
             </li>
           </ul>
         </article>

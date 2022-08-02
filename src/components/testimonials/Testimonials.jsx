@@ -31,7 +31,7 @@ const testimonials = () => {
           <div className="client__avatar">
             <img src={AVTR1} alt='Avatar One' />
           </div>
-          <h5 className='client__name'>Ernest Achiever</h5>
+          <h5 className='client__name'>Hotel Atrium Plaza</h5>
             <small className='client__review'>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, fugit. Recusandae excepturi cum sequi cupiditate, rem nobis facilis dignissimos voluptate culpa velit quae itaque in corrupti eum. Eaque, vitae ea.
             </small>
@@ -40,7 +40,7 @@ const testimonials = () => {
           <div className="client__avatar">
             <img src={AVTR2} alt='Avatar' />
           </div>
-          <h5 className='client__name'>Ernest Achiever</h5>
+          <h5 className='client__name'>LM Logistic</h5>
             <small className='client__review'>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, fugit. Recusandae excepturi cum sequi cupiditate, rem nobis facilis dignissimos voluptate culpa velit quae itaque in corrupti eum. Eaque, vitae ea.
             </small>
@@ -49,7 +49,7 @@ const testimonials = () => {
           <div className="client__avatar">
             <img src={AVTR3} alt='Avatar' />
           </div>
-          <h5 className='client__name'>Ernest Achiever</h5>
+          <h5 className='client__name'>CreativArt</h5>
             <small className='client__review'>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, fugit. Recusandae excepturi cum sequi cupiditate, rem nobis facilis dignissimos voluptate culpa velit quae itaque in corrupti eum. Eaque, vitae ea.
             </small>
@@ -58,7 +58,7 @@ const testimonials = () => {
           <div className="client__avatar">
             <img src={AVTR4} alt='Avatar' />
           </div>
-          <h5 className='client__name'>Ernest Achiever</h5>
+          <h5 className='client__name'>Hotel Atrium Plaza</h5>
             <small className='client__review'>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, fugit. Recusandae excepturi cum sequi cupiditate, rem nobis facilis dignissimos voluptate culpa velit quae itaque in corrupti eum. Eaque, vitae ea.
             </small>
