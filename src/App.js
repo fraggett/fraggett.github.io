@@ -8,6 +8,16 @@ import Portfolio from './components/portfolio/Portfolio'
 import Testimonials from './components/testimonials/Testimonials'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
+import { ThpaceGL } from 'thpace';
+
+const canvas = document.querySelector('.background');
+
+const settings = {
+  triangleSize: 90,
+	colors: ['#edb55a', '#b35656', '#681884'],
+	maxFps: 144,
+	particleSettings: {},
+};
 
 const App = () => {
   return (
@@ -23,5 +33,7 @@ const App = () => {
     </>
   )
 }
+
+ThpaceGL.create(canvas, settings);
 
 export default App

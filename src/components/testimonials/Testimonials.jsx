@@ -31,7 +31,7 @@ const testimonials = () => {
           <div className="client__avatar">
             <img src={AVTR1} alt='Avatar One' />
           </div>
-          <h5 className='client__name'>Hotel Atrium Plaza</h5>
+          <h5 className='client__name'>Jumpcom</h5>
             <small className='client__review'>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus, fugit. Recusandae excepturi cum sequi cupiditate, rem nobis facilis dignissimos voluptate culpa velit quae itaque in corrupti eum. Eaque, vitae ea.
             </small>
